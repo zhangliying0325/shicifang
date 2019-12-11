@@ -10,7 +10,7 @@
           </div>
           <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav" id="nav-barText">
-              <li class="active" id="headlineText" style="color: red;"><a href="#">头条</a></li>
+              <li class="active" id="headlineText"><a href="#">头条</a></li>
               <li><a href="#" id="headlineText">问答</a></li>
               <li><a href="#" id="headlineText">活动</a></li>
               <li><a href="#" id="headlineText">交友</a></li>

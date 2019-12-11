@@ -14,6 +14,7 @@ module.exports = {
   plugins: [ // 所有webpack  插件的配置节点
     new htmlWebpackPlugin({
       template: path.join(__dirname, './headline/index.html'), // 指定模板文件路径
+      //template: path.join(__dirname, './spitslot/spitslot-page.html'), // 指定模板文件路径
       filename: 'index.html' // 设置生成的内存页面的名称
     })
   ],
